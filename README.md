@@ -23,5 +23,3 @@ Instale as Dependências:<br>
 
 Inicie o Servidor de Desenvolvimento:<br>
 `npm run dev`<br>
-
-#### OBS: Certifique-se de que o backend está rodando na URL especificada. <br>
